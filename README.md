@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://camo.githubusercontent.com/400ac473bf4f9db692e2ac202997337b42debc7dbe41be42ced66a554aa2d0f6/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d73746f726d7368796e267468656d653d6769746875625f6461726b" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormshyn&rank=SSS;theme=github_dark" style="max-width:101%;"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=stormshynn&label=Profile%20views&color=0e75b6&style=flat" alt="stormshyn" /> </p><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormshynn" alt="stormshyn"/></a> </p><p align="center"> <a href="https://twitter.com/StormShyy" target="blank"><img src="https://img.shields.io/twitter/follow/stormshyn?logo=twitter&style=for-the-badge" alt="stormshyn"/></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stormshynn&label=Profile%20views&color=0e75b6&style=flat" alt="stormshyn" /> </p><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormshynn" alt="stormshyn"/></a> </p><p align="center"> <a href="[https://twitter.com/StormShyy](https://freebuff.com/web/?ref=ref-a1facb7c-86bc-4cb1-925e-f6ebeb76221c)" target="blank"><img src="https://img.shields.io/twitter/follow/stormshyn?logo=twitter&style=for-the-badge" alt="stormshyn"/></a></p>
 
 <!-- ### Bài đăng trên
 
