@@ -22,7 +22,7 @@
 <a href="https://dev.to/stormshyn"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
 <a href="https://fb.com/stormshyn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://instagram.com/storm_shyn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:chinghia19031999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
 
@@ -185,11 +185,11 @@ public class Nghia : IDeveloper
 <div align="center">
 
 <!-- Replace REPO_NAME with your real repositories -->
-<a href="https://github.com/stormshynn/REPO_NAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
+<a href="https://github.com/stormshynn/cds-kb-mcp-data">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=cds-kb-mcp-data&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
 </a>
-<a href="https://github.com/stormshynn/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
+<a href="https://github.com/stormshynn/sap-abap-agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=sap-abap-agent&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
 </a>
 
 </div>
