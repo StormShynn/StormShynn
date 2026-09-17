@@ -158,13 +158,20 @@ public class Nghia : IDeveloper
 <a href="https://github.com/stormshynn/sap-abap-agent">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=sap-abap-agent&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
 </a>
+<a href="https://github.com/stormshynn/sap-error-codex">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=sap-error-codex&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 3" />
+</a>
+<a href="https://github.com/stormshynn/mcp-switch">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=mcp-switch&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 4" />
+</a>
 
+<!--
 | Project | Stack | Description |
 |---|---|---|
 | **Project One** | `ASP.NET Core` `SQL Server` | One-line description of what it does and why it matters. |
 | **Project Two** | `C#` `WinForms` | One-line description of what it does and why it matters. |
 | **Project Three** | `PHP` `MySQL` | One-line description of what it does and why it matters. |
-
+-->
 ---
 
 <!--
