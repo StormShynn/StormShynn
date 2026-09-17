@@ -142,7 +142,7 @@ public class Nghia : IDeveloper
 <br/><br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=StormShynn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=StormShynn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </a>
 
 </div>
