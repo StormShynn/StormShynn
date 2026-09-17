@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Bui%20Hoang%20Tri%20Nghia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20ABAP%20%2F%20Fiori%20%2F%20BTP%20%26%20Full-Stack%20.NET%20Developer&descAlignY=55&descSize=17" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Bui%20Hoang%20Tri%20Nghia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/StormShynn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=SAP+ABAP+%7C+RAP+%7C+Fiori+%2F+UI5+Developer;S%2F4HANA+Public+Cloud+%7C+On-Premise+%7C+Business+One;SAP+BTP+%7C+Integration+Suite+%7C+PI%2FPO;Full-Stack+.NET+%7C+ASP.NET+Core+%7C+Oracle+%7C+SQL+Server;Clean+core%2C+clean+code%2C+clean+commits." alt="Typing SVG" />
