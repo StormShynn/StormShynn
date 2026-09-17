@@ -127,8 +127,8 @@ public class Nghia : IDeveloper
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=StormShynn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormShynn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=StormShynn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=StormShynn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
@@ -153,10 +153,10 @@ public class Nghia : IDeveloper
 
 <!-- Replace REPO_NAME with your real repositories -->
 <a href="https://github.com/stormshynn/cds-kb-mcp-data">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=cds-kb-mcp-data&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=cds-kb-mcp-data&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
 </a>
 <a href="https://github.com/stormshynn/sap-abap-agent">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=stormshynn&repo=sap-abap-agent&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=sap-abap-agent&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 2" />
 </a>
 
 | Project | Stack | Description |
@@ -172,11 +172,10 @@ public class Nghia : IDeveloper
   Uncomment ONLY after .github/workflows/snake.yml has run successfully
   and the "output" branch exists with snake.svg in it.
   Until then the URL returns 404 and shows a broken image.
-
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/StormShynn/StormShynn/output/snake.svg" alt="snake animation" />
 </div>
--->
 
 <div align="center">
 
