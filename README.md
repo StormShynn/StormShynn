@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Bui%20Hoang%20Tri%20Nghia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Bui%20Hoang%20Tri%20Nghia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SAP%20ABAP%20%26%20Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/StormShynn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;ASP.NET+Core+%7C+SQL+Server+%7C+JavaScript;Clean+code%2C+clean+architecture%2C+clean+commits;Always+building%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=SAP+ABAP+%7C+Full-Stack+.NET+Developer;S%2F4HANA+Public+Cloud+%7C+On-Premise+%7C+Business+One;ASP.NET+Core+%7C+SQL+Server+%7C+Oracle;Clean+code%2C+clean+architecture%2C+clean+commits;Always+building%2C+always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,18 +33,25 @@ public class Nghia : IDeveloper
 {
     public string Name     => "Bui Hoang Tri Nghia";
     public string Alias    => "StormShynn";
-    public string Role     => "Full-Stack .NET Developer";
+    public string Role     => "SAP ABAP & Full-Stack .NET Developer";
     public string Location => "Vietnam";
 
-    public string[] Focus => new[]
+    public string[] EnterpriseFocus => new[]
+    {
+        "SAP ABAP - reports, enhancements, CDS views, OData services",
+        "SAP S/4HANA Public Cloud - clean core, side-by-side extensibility",
+        "SAP S/4HANA On-Premise - classic ABAP & custom development",
+        "SAP Business One - SDK, add-ons, integration",
+        "Oracle Database - PL/SQL, performance tuning"
+    };
+
+    public string[] WebFocus => new[]
     {
         "ASP.NET Core & C# backend services",
-        "Relational data modeling with SQL Server / MySQL",
+        "Relational data modeling with SQL Server / Oracle / MySQL",
         "Responsive front-ends with JavaScript + Bootstrap",
         "Clean architecture & maintainable codebases"
     };
-
-    public string[] CurrentlyLearning => new[] { "Docker", "Cloud deployment", "System design" };
 
     public string Motto => "Write code that your future self will thank you for.";
 }
@@ -56,21 +63,23 @@ public class Nghia : IDeveloper
 
 **Currently working on**
 
+- SAP ABAP development across S/4HANA Public Cloud & On-Premise
+- SAP Business One customization and integration
 - Full-stack web applications with ASP.NET Core
-- Improving API design & database performance
 
 **Currently learning**
 
-- Containerization and CI/CD pipelines
-- Software architecture patterns
+- SAP BTP & clean core extensibility patterns
+- Containerization, CI/CD, and software architecture
 
 </td>
 <td width="50%" valign="top">
 
 **Ask me about**
 
-- C# / .NET, SQL Server, REST APIs
-- Front-end integration and debugging
+- ABAP, CDS views, OData, SAP integration patterns
+- SAP Business One SDK & add-on development
+- C# / .NET, SQL Server, Oracle, REST APIs
 
 **Fun fact**
 
@@ -86,8 +95,17 @@ public class Nghia : IDeveloper
 
 <div align="center">
 
+**SAP & ERP**
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![S/4HANA Public Cloud](https://img.shields.io/badge/S%2F4HANA%20Public%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![S/4HANA On-Premise](https://img.shields.io/badge/S%2F4HANA%20On--Premise-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
 **Languages**
 
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,12 +124,16 @@ public class Nghia : IDeveloper
 
 **Databases**
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Platforms**
 
+![SAP GUI](https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Eclipse ADT](https://img.shields.io/badge/Eclipse%20ADT-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,6 +142,18 @@ public class Nghia : IDeveloper
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+---
+
+## SAP Capability Map
+
+| Area | Platform | What I work on |
+|---|---|---|
+| **ABAP Development** | On-Premise / Private Cloud | Reports, enhancements, BAdIs, user exits, ALV, Smart Forms |
+| **Modern ABAP** | S/4HANA | CDS views, AMDP, OData services, ABAP SQL performance tuning |
+| **Clean Core** | S/4HANA Public Cloud | Released APIs, key-user & developer extensibility, side-by-side apps |
+| **SME ERP** | SAP Business One | SDK / DI API add-ons, UDF/UDO, Crystal Reports, integrations |
+| **Data** | Oracle / HANA / SQL Server | PL/SQL, stored procedures, query optimization, data migration |
 
 ---
 
@@ -151,7 +185,6 @@ public class Nghia : IDeveloper
 
 ## Featured Projects
 
-<!-- Replace REPO_NAME with your real repositories -->
 <a href="https://github.com/stormshynn/cds-kb-mcp-data">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=cds-kb-mcp-data&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 1" />
 </a>
@@ -165,17 +198,10 @@ public class Nghia : IDeveloper
   <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=stormshynn&repo=mcp-switch&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project 4" />
 </a>
 
-<!--
-| Project | Stack | Description |
-|---|---|---|
-| **Project One** | `ASP.NET Core` `SQL Server` | One-line description of what it does and why it matters. |
-| **Project Two** | `C#` `WinForms` | One-line description of what it does and why it matters. |
-| **Project Three** | `PHP` `MySQL` | One-line description of what it does and why it matters. |
--->
 ---
 
 <!--
-  OPTIONAL — Snake contribution animation.
+  OPTIONAL - Snake contribution animation.
   Uncomment ONLY after .github/workflows/snake.yml has run successfully
   and the "output" branch exists with snake.svg in it.
   Until then the URL returns 404 and shows a broken image.
